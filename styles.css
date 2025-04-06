@@ -1,0 +1,63 @@
+h1 {
+    background-color: rgb(54, 109, 186);
+    text-align: center;
+    margin: 0px;
+    height: 70px;
+    padding: 10px;
+    color: white
+}
+
+body{
+    background-color: rgb(123, 185, 216);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    background-color:royalblue;
+    width: 100%;
+    height: 100px;
+    color: white;
+    padding-top: 30px;
+
+}
+
+p{
+    text-align: center;
+    color: white;
+  
+}
+
+h5{
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color: blue;
+}
+
+nav {
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+  
+}
+
+nav a:hover {
+    background-color: royalblue;
+}
+
+
+
